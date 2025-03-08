@@ -38,7 +38,7 @@ class _Createpassword extends State<Createpassword> {
                   border:InputBorder.none,
                   fillColor:Color(0XFFF7F8F8),
                   filled:true,
-                  hintText:'New Pass',
+                  hintText:'New Password',
                   hintStyle:TextStyle(color:Color(0XFFADA4A5),fontSize:14,fontWeight:FontWeight.w400),
                   prefixIcon:Image.asset('assets/Lock.png'),
                   suffixIcon:Image.asset('assets/Hide-Password.png'),
